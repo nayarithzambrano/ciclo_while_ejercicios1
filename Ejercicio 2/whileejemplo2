@@ -1,0 +1,6 @@
+# Ejemplo 2
+
+x=1
+while x<100:
+    print("Nayarith")
+    x+=1
